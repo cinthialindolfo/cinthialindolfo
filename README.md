@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cinthialindolfo
--  Quero aprender a desenvolver projetos
--  Também quero ingressar na aréa de trabalho como programadora Web
+-  Quero aprender a desenvolver projeto
+-  Também quero ingressar na aréa de trabalho em TI
 -  Adoro  tudo sobre tecnologia e estou disposta a me dedicar ao máximo pra isso
 -  Atualmente estou cursando Sistema de Informações  como graduanda na UFPB já no meu  3° Período e também estou aprendendo Desenvolvimento Web com HTML e CSS
 -  Finalizei o curso de POO em java com  56 horas de duração
