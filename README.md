@@ -1,9 +1,10 @@
 ## Olá! Eu sou a Cinthia Lindolfo
 
 <div>
-  <a href="https://github.com/cinthialindolfo">
+  <a href="https://github.com/cinthialindolfo/github-readme-stats">
   <img height="180em" scr="https://github-readme-status.vercel.app/api?username=cinthialindolfo&show_icons=true&theme=dracula&include_all_commits=true&count"/>
   <img height="180em" scr="https://github-readme-status.vercel.app/api/top-langs?username=cinthialindolfo&layout=compact&langs_count=16&theme=dark"/>
+</a>
 </div>
 	
 <div style="display:> inline_block"><br>
