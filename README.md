@@ -2,21 +2,21 @@
 
 <div>
   <a href="https://github.com/cinthialindolfo">
-  <img height="180em" scr="https://github-readme-status.vercel.app/api?username=cinthialindolfo&show_icons=true&theme=dark&include_all_commits=true&count"/>
-  <img height="180em" scr="https://github-readme-status.vercel.app/api/top-langs?username=cinthialindolfo&layout=compact&langs_count=16theme=dark"/>
+  <img height="180em" scr="https://github-readme-status.vercel.app/api?username=cinthialindolfo&show_icons=true&theme=dracula&include_all_commits=true&count"/>
+  <img height="180em" scr="https://github-readme-status.vercel.app/api/top-langs?username=cinthialindolfo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 	
 <div style="display:> inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" heigth = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" heigth = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" heigth = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" heigth = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" heigth = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" heigth = "40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" heigth = "40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" heigth = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" heigth = "40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" heigth = "40"/>
+  <img align="center" alt="Cinthia-canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" heigth = "40"/>
+  <img align="center" alt="Cinthia-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" heigth = "40"/>
+  <img align="center" alt="Cinthia-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" heigth = "40"/>
+  <img align="center" alt="Cinthia-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" heigth = "40"/>
+  <img align="center" alt="Cinthia-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" heigth = "40" />
+  <img align="center" alt="Cinthia-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" heigth = "40"/> 
+  <img align="center" alt="Cinthia-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" heigth = "40"/> 
+  <img align="center" alt="Cinthia-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" heigth = "40"/>
+  <img align="center" alt="Cinthia-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" heigth = "40" /> 
+  <img align="center" alt="Cinthia-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" heigth = "40"/>
 </div>
 	
 ## Contatos
