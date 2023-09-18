@@ -42,5 +42,3 @@
 	<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cinthialindolfo}/count.svg"/></p> 
 	<br>
 </div>
-
-![Snake animation](https://github.com/cinthialindolfo/cinthialindolfo/blob/output/github-contribution-grid-snake.svg)
