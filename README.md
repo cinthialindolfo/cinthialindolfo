@@ -1,6 +1,6 @@
 ## Sejam bem vindos ao meu 🌏👩🏻‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Cinthia+Lindolfo👩🏻‍💻+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estou+cursando+Sistema+de+Informação+na+UFPB++Campus+IV.;+Áreas+de+interesse+Análises+de+Projetos,+Análise+de+Requistos+Gerente+de+Produtos++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Cinthia+Lindolfo👩🏻‍💻+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estou+cursando+Sistema+de+Informação+na+UFPB++Campus+IV.;Áreas+de+interesse+Análises+de+Projetos,+Análise+de+Requistos+Gerente+de+Produtos++)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=cinthialindolfo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=issues&hide_rank=false" alt="Cinthia Lindofo Github Stats"/>
