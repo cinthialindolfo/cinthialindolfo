@@ -1,45 +1,94 @@
-## Sejam bem vindos ao meu 🌏👩🏻‍💻
+<h1 align="center">👩🏻‍💻 Bem-vindos ao meu mundo digital! 🌎</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Cinthia+Lindolfo👩🏻‍💻;Estou+cursando+Sistemas+de+Informação+na+UFPB+Campus+IV.;Áreas+de+interesse:+Análise+de+Projetos,+Análise+de+Requisitos,+Gerência+de+Produtos++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=6458F7&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+a+Cinthia+Lindolfo!;Estudante+de+Sistemas+de+Informação+na+UFPB.;Apaixonada+por+Tecnologia+e+Impacto+Social.)](https://git.io/typing-svg)
+
+---
+
+## ✨ Sobre Mim
+
+Sou graduanda em **Sistemas de Informação pela UFPB - Campus IV**, com forte interesse em usar a tecnologia para gerar impacto positivo em comunidades, educação e sustentabilidade.  
+Tenho experiência em **projetos sociais, design, análise de dados e desenvolvimento web**, e estou em constante evolução como desenvolvedora e futura líder de projetos.
+
+---
+
+## 🎯 Interesses Profissionais
+
+- 🚀 **Gestão e Análise de Projetos**
+- 📌 **Análise e Modelagem de Requisitos**
+- 🧠 **Gestão de Produtos Digitais**
+- 💻 **Desenvolvimento Frontend (React.js, HTML, CSS, JS)**
+- 🎨 **Prototipagem e UX/UI com Figma e Canva**
+- 📊 **Análise e Visualização de Dados (Metabase, Airflow)**
+- 🌱 **Tecnologias para Sustentabilidade e Impacto Social**
+- ⚙️ **Desenvolvimento Backend com Spring Boot**
+- 💬 **Cultura de Compartilhamento e Software Livre**
+
+---
+
+## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=cinthialindolfo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=issues&hide_rank=false" alt="Cinthia Lindolfo Github Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthialindolfo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=cinthialindolfo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=issues" alt="GitHub Stats"/>
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthialindolfo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Langs"/>
 </div>
 
 ---
 
-## Conhecimentos
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img align="center" alt="Cinthia-canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img align="center" alt="Cinthia-springboot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+<div align="left">
+  
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" height="30" title="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" title="Figma"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React.js"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="Linguagem C"/>
+  
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" title="PostgreSQL"/>
+  
+  <!-- Dados & BI -->
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="30" height="30" title="Metabase"/>
+  <img src="https://seeklogo.com/images/A/apache-airflow-logo-D539A0D25D-seeklogo.com.png" width="30" height="30" title="Airflow"/>
+
+  <!-- Versionamento -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
+  
 </div>
 
 ---
 
-## Atividade Recente (Snake Game)
-
-<div align="center">
-  <img src="https://github.com/cinthialindolfo/cinthialindolfo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation on GitHub contribution grid" />
-</div>
-
----
-
-## Contatos
+## 📬 Contatos
 
 <div>
   <a href="https://www.instagram.com/cinthia_lindolfo/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  </div>
+  <a href="mailto:cinthia.lindolfo@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cinthia-lindolfo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Snake dos Contribs
+
+![snake gif](https://github.com/cinthialindolfo/cinthialindolfo/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<h3 align="center">✨ Obrigada por visitar meu perfil! Volte sempre 💜</h3>
