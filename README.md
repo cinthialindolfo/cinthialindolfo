@@ -6,8 +6,8 @@
 
 ## ✨ Sobre Mim
 
-Sou graduanda em **Sistemas de Informação pela UFPB - Campus IV**, com forte interesse em usar a tecnologia para gerar impacto positivo em comunidades, educação e sustentabilidade.  
-Tenho experiência em **projetos sociais, design, análise de dados e desenvolvimento web**, e estou em constante evolução como desenvolvedora e futura líder de projetos.
+Sou graduanda em **Sistemas de Informação pela UFPB - Campus IV**, com forte interesse em usar a tecnologia para gerar impacto positivo em comunidades, educação e sustentabilidade.
+Tenho experiência em **projetos sociais, gestão de produtos, gerência de projetos, design, análise de dados e desenvolvimento web**, e estou em constante evolução como desenvolvedora e futura líder de projetos.
 
 ---
 
@@ -34,10 +34,17 @@ Tenho experiência em **projetos sociais, design, análise de dados e desenvolvi
 
 ---
 
+## 🏆 Meus Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cinthialindolfo&theme=dracula&no-frame=true&no-bg=true&margin-w=4&locale=pt-BR" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" title="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
@@ -75,22 +82,12 @@ Tenho experiência em **projetos sociais, design, análise de dados e desenvolvi
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:cinthia.lindolfo@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cinthia-lindolfo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 🐍 Snake dos Contribs
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cinthialindolfo/cinthialindolfo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cinthialindolfo/cinthialindolfo/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/cinthialindolfo/cinthialindolfo/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
