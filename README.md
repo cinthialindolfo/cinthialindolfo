@@ -52,7 +52,7 @@ Tenho experiência em **projetos sociais, design, análise de dados e desenvolvi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="Linguagem C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C"/>
   
   <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL"/>
@@ -60,7 +60,7 @@ Tenho experiência em **projetos sociais, design, análise de dados e desenvolvi
   
   <!-- Dados & BI -->
   <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="30" height="30" title="Metabase"/>
-  <img src="https://seeklogo.com/images/A/apache-airflow-logo-D539A0D25D-seeklogo.com.png" width="30" height="30" title="Airflow"/>
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_gradient.png" width="30" height="30" title="Apache Airflow"/>
 
   <!-- Versionamento -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
@@ -87,7 +87,11 @@ Tenho experiência em **projetos sociais, design, análise de dados e desenvolvi
 
 ## 🐍 Snake dos Contribs
 
-![snake gif](https://github.com/cinthialindolfo/cinthialindolfo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cinthialindolfo/cinthialindolfo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cinthialindolfo/cinthialindolfo/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/cinthialindolfo/cinthialindolfo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
