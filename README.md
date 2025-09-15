@@ -7,7 +7,7 @@
 ## ✨ Sobre Mim
 
 Sou graduanda em **Sistemas de Informação pela UFPB - Campus IV**, com forte interesse em usar a tecnologia para gerar impacto positivo em comunidades, educação e sustentabilidade.
-Tenho experiência em **projetos sociais, gestão de produtos, gerência de projetos, design, análise de dados e desenvolvimento web**, e estou em constante evolução como desenvolvedora e futura líder de projetos.
+Tenho experiência em **projetos sociais, gestão de produtos, gerência de projetos, design, análise de dados e desenvolvimento web**, e estou em constante evolução para ser uma futura líder de projetos.
 
 ---
 
@@ -21,7 +21,6 @@ Tenho experiência em **projetos sociais, gestão de produtos, gerência de proj
 - 📊 **Análise e Visualização de Dados (Metabase, Airflow)**
 - 🌱 **Tecnologias para Sustentabilidade e Impacto Social**
 - ⚙️ **Desenvolvimento Backend com Spring Boot**
-- 💬 **Cultura de Compartilhamento e Software Livre**
 
 ---
 
