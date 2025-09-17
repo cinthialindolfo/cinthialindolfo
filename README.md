@@ -88,7 +88,11 @@ Tenho experiência em **projetos sociais, gestão de produtos, gerência de proj
   </a>
 </div>
 
-![snake gif](https://github.com/CinthiaLindolfo/CinthiaLindolfo/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CinthiaLindolfo/CinthiaLindolfo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CinthiaLindolfo/CinthiaLindolfo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CinthiaLindolfo/CinthiaLindolfo/output/github-snake.svg" />
+</picture>
 
 ---
 
