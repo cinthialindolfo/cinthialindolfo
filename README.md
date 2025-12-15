@@ -25,7 +25,7 @@ Minha experiência como **Product Owner** é sustentada por competências práti
 
 * 🔭 **Atualmente:** PO & UX Designer no **Projeto BeesCaatinga** e PO no **Viveiro de Mudas (UFPB)**.
 * 💼 **Experiência Anterior:** Gerente Geral & PO no Grupo BRG.
-* 🌱 **Estudando:** WordPress, atuação de PO e PM.
+* 🌱 **Estudando:** WordPress, atuação como PO e PM.
 
 ---
 
