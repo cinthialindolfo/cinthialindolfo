@@ -19,7 +19,7 @@
 
 ## 👩🏻‍💻 Sobre Mim
 
-Sou graduanda em **Sistemas de Informação pela UFPB** (Previsão de conclusão: Mai/2026) e atuo na intersecção entre **Negócios, Design e Tecnologia**.
+Sou graduanda em **Sistemas de Informação pela UFPB** e atuo na intersecção entre **Negócios, Design e Tecnologia**.
 
 Minha experiência como **Product Owner** é sustentada por competências práticas em prototipagem e desenvolvimento (Full Cycle), permitindo uma visão holística do produto. Sou versátil e busco aplicar metodologias ágeis e visão analítica no desenvolvimento de soluções digitais.
 
