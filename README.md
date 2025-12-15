@@ -23,9 +23,9 @@ Sou graduanda em **Sistemas de Informação pela UFPB** e atuo na intersecção 
 
 Minha experiência como **Product Owner** é sustentada por competências práticas em prototipagem e desenvolvimento (Full Cycle), permitindo uma visão holística do produto. Sou versátil e busco aplicar metodologias ágeis e visão analítica no desenvolvimento de soluções digitais.
 
-* 🔭 **Atualmente:** PO & UX Designer no **Projeto BeesCaatinga** e PO no **Viveiro de Mudas (UFPB)**.
+* 🔭 **Atualmente:** PO & UX Designer & Desenvolvedora web no **Projeto BeesCaatinga (FAPESQ/SECTIES)** e no ** Projeto Viveiro de Mudas (Reflora-aê) (PROEX/UFPB)**.
 * 💼 **Experiência Anterior:** Gerente Geral & PO no Grupo BRG.
-* 🌱 **Estudando:** WordPress, atuação como PO e PM.
+* 🌱 **Estudando:** WordPress, atuação como PO e PM, ferramentas de Hospedagem.
 
 ---
 
@@ -45,7 +45,7 @@ Minha stack completa, demonstrando versatilidade técnica para atuar em qualquer
 
 ### 🏛️ **Projeto BeesCaatinga (FAPESQ/SECTIES)** | *Mai 2025 - Presente*
 **Role:** Product Owner & UX Designer
-* Liderança de plataforma ambiental, integrando pesquisadores e desenvolvedores.
+* Liderança de plataforma de gestão, integrando pesquisadores e desenvolvedores.
 * Prototipagem de alta fidelidade no Figma e mapeamento de jornada do usuário.
 * Gestão de backlog e sprints (Scrum) alinhadas aos editais de fomento.
 
@@ -54,7 +54,7 @@ Minha stack completa, demonstrando versatilidade técnica para atuar em qualquer
 * Desenvolvimento de solução digital para agricultura familiar com foco em acessibilidade.
 * Condução de discovery, validação de requisitos e elaboração de PRD.
 
-### 🧀 **E-Artesan** | *2025*
+### 🧀 **E-Artesan** | *Jan 2025 - Ago 2025*
 **Role:** Ex-Founder
 * Sistema de gestão de queijos para produtores artesanais (Projeto pré-incubado).
 * Validação de MVP e modelo de negócio.
@@ -62,6 +62,7 @@ Minha stack completa, demonstrando versatilidade técnica para atuar em qualquer
 ### 🤖 **Automação Python** | *Projeto Pessoal*
 **Role:** Developer
 * Bot para automação de candidaturas no LinkedIn utilizando Python (Selenium).
+* Bot para automação de envio de mensagens pelo whatsapp.
 
 ---
 
